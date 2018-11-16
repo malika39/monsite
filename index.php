@@ -45,6 +45,7 @@
       </div>
     </nav>
     <h1 class="display-4 text-center mt-2">Mon premier projet en partage sur GITHUB!!!!</h1><hr>
+    <p class="display-4 text-center mt-2"> Le formateur a la pouasse!!!!!!!!!</p><hr>
     
 </body>
 </html>
